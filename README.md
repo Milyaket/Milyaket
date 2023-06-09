@@ -41,5 +41,6 @@
 
 <h3 align="center">💞 Contact me</h3>
 <p align="center"> 
-    <a href="https://discord.com/users/1067204055929192548"></a><img src="https://cdn.discordapp.com/emojis/1020466482091671592.webp?size=96&quality=lossless" width="50"> 
+    <a href="https://discord.com/users/1067204055929192548"><img align="center" src="https://cdn.discordapp.com/emojis/1020466482091671592.webp?size=96&quality=lossless" alt="1067204055929192548" width="40"/></a>
 </p>
+
