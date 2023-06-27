@@ -1,4 +1,4 @@
-<p align="center"><img src="Icons/Milyaket.png"></p>
+<a href="https://discord.com/users/1067204055929192548"> <p align="center"><img src="Icons/Milyaket.png"></p> </a>
 
 <h1 align="left">
     <img src="https://img.shields.io/github/followers/Milyaket?style=social">
@@ -20,11 +20,11 @@
 <br>
 
 <div style="display: flex; align-items: center;">
-    <img src="Icons/Python.png" width="20px" style="margin-right: 8px;"> I'm passionate about working with Python 
+    <a href="https://python.org/"><img src="Icons/Python.png" width="20px" style="margin-right: 8px;"></a> I'm passionate about working with Python 
 </div>
 
 <div style="display: flex; align-items: center;">
-    <img src="Icons/Coffee.gif" width="20px" style="margin-right: 8px;"> Thanks for dropping by my profile, and may your code be bug-free and your coffee always be hot! ☕️
+    <a href="https://en.wikipedia.org/wiki/Coffee"><img src="Icons/Coffee.gif" width="20px" style="margin-right: 8px;"></a> Thanks for dropping by my profile, and may your code be bug-free and your coffee always be hot! ☕️
 </div>
 
 <!-- New line -->
