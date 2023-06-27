@@ -1,46 +1,41 @@
-<p align="center">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWI3OTIzMjA0YzY2ZDlmYmU3MzJjZGI4MDZjNjBmNDhiM2EyY2YxMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3osxY9kuM2NGUfvThe/giphy.gif" width="600", height="200">
-</p>
+<p align="center"><img src="Icons/Milyaket.png"></p>
 
+<h1 align="left">
+    <img src="https://img.shields.io/github/followers/Milyaket?style=social">
+    <img src="https://img.shields.io/github/stars/Milyaket?style=social"></p>
+</h1>
 
+<!-- New line -->
+<br>
 
-<h1 align="center">👋 Welcome on my Github-Profile</h1>
-<h3 align="center">One who also likes to learn new things</h3>
+<h1 align="center"> 👋 Welcome </h1>
 
-<br><br><br>
+<!-- New line -->
+<br>
 
+<p>I hope you find your way around my GitHub profile. 
+    <br> If you like a project of mine you can give me a star ⭐ or a follow ✅</p>
 
+<!-- New line -->
+<br>
 
+<div style="display: flex; align-items: center;">
+    <img src="Icons/Python.png" width="20px" style="margin-right: 8px;"> I'm passionate about working with Python 
+</div>
 
+<div style="display: flex; align-items: center;">
+    <img src="Icons/Coffee.gif" width="20px" style="margin-right: 8px;"> Thanks for dropping by my profile, and may your code be bug-free and your coffee always be hot! ☕️
+</div>
 
-<img align="right" src="https://media0.giphy.com/media/FlPJcTplkfefDCKq2b/giphy.gif?cid=ecf05e47x3kyregvymvpep078dai7wzo0sxc4meaa11emzl0&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="150">
-<p align="left"><img src="https://img.shields.io/github/followers/Milyaket?style=social"> <img src="https://img.shields.io/github/stars/Milyaket?style=social"> <br></p>
+<!-- New line -->
+<br>
 
-- 👋 Hi, I'm Milyaket! <br>
-- 🐍 I'm a passionate Python developer, currently focusing on Python. <br>
-- 🚀 On my GitHub profile, you'll find my Python projects. <br>
-- ⭐ Thanks for dropping by my profile, and may your code be bug-free and your coffee always be hot! ☕️
+<h1 align="center"> ⚒ Tools </h1>
 
-<br><br><br><br><br>
-
-
-
-
-
-<h3 align="center">🗣 Languages</h3>
-<p align="center"> 
-    <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> </a> 
-    <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a> 
-    <a href="https://www.sqlite.org/"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/></a> 
-    <a href="https://www.w3.org/html/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/> </a>
-    <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
-</p>
-
-
-
-
-<h3 align="center">💞 Contact me</h3>
-<p align="center"> 
-    <a href="https://discord.com/users/1067204055929192548"><img align="center" src="https://cdn.discordapp.com/emojis/1020466482091671592.webp?size=96&quality=lossless" alt="1067204055929192548" width="40"/></a>
-</p>
-
+<div align="center">
+    <a href="https://python.org/"> <img src="Icons/Python.png" width="60px" style="margin-right: 10px;"></a>
+    <a href="https://www.mysql.com/"> <img src="Icons/MySQL.png" width="60px" style="margin-right: 10px;"></a>
+    <a href="https://www.sqlite.org/"> <img src="Icons/SQLite.png" width="60px" style="margin-right: 1px;"></a>
+    <a href="https://www.w3.org/html/"> <img src="Icons/HTML.png" width="60px" style="margin-right: 1px;"></a>
+    <a href="https://www.w3schools.com/css/"> <img src="Icons/CSS.png" width="60px" style="margin-right: 1px;"></a>
+</div>
