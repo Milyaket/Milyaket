@@ -1,4 +1,6 @@
-<a href="https://discord.com/users/1067204055929192548"> <p align="center"><img src="Icons/Milyaket.png"></p> </a>
+<div align="center">
+    <a href="https://discord.com/users/1067204055929192548" ><img src="Icons/Milyaket.png"></a>
+</div>
 
 <h1 align="left">
     <img src="https://img.shields.io/github/followers/Milyaket?style=social">
