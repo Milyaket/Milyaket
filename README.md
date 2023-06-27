@@ -3,8 +3,8 @@
 </div>
 
 <h1 align="left">
-    <a href=""><img src="https://img.shields.io/github/followers/Milyaket?style=social"></a>
-    <a href=""><img src="https://img.shields.io/github/stars/Milyaket?style=social"></a>
+    <a href="https://github.com/Milyaket"><img src="https://img.shields.io/github/followers/Milyaket?style=social"></a>
+    <a href="https://github.com/Milyaket"><img src="https://img.shields.io/github/stars/Milyaket?style=social"></a>
 </h1>
 
 <!-- New line -->
