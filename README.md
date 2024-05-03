@@ -63,13 +63,13 @@
     <br><br>
     An example of a correct question or inquirie:
     <br><br>
-    Dear ..., # Greetings
+    Dear / Hi ..., # Greetings
     <br><br>
-    I'm ... # Introduction
+    I'm ... # Introduction | For simple questions or attention to errors, this can be omitted.
     <br><br>
     Your project ... / Are you interested in ... # Details about the request
     <br><br>
-    Kind regards # farewell formula
+    Kind regards # farewell formula | For simple questions or attention to errors, this can be omitted.
     <br><br><br>
     -> You can also send <b>feedback</b> via. The request can of course be sent using the <b>contact option</b>, so the request does <b>not have to be very detailed</b>.
 </div>
