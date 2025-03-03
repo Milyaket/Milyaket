@@ -57,19 +57,5 @@
 </div>
 
 <div id="Body-Contact">
-    You can currently get a quick answer on <a href="https://discord.com/users/1067204055929192548"><b>Discord</b></a>.
-    <br><br>
-    <b>Please note</b>: Only write to me if you have a <b>real concern</b> (e.g. questions or inquiries). You should also make sure to <b>explain your concern</b> to me in the <b>first message</b> so that I can respond <b>directly</b>.
-    <br><br>
-    An example of a correct question or inquirie:
-    <br><br>
-    Dear / Hi ..., # Greetings
-    <br><br>
-    I'm ... # Introduction | For simple questions or attention to errors, this can be omitted.
-    <br><br>
-    Your project ... / Are you interested in ... # Details about the request
-    <br><br>
-    Kind regards # farewell formula | For simple questions or attention to errors, this can be omitted.
-    <br><br><br>
-    -> You can also send <b>feedback</b> via. The request can of course be sent using the <b>contact option</b>, so the request does <b>not have to be very detailed</b>.
+    E-Mail: contact.afterlife971@passinbox.com
 </div>
