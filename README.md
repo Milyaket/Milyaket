@@ -50,12 +50,4 @@
     
 </div>
 
-
 <!--- Category: Contact --->
-<div id="Headline-Contact">
-    <h1 align="center">Contact</h1>
-</div>
-
-<div id="Body-Contact">
-    E-Mail: contact.afterlife971@passinbox.com
-</div>
